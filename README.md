@@ -13,3 +13,12 @@ Please PR when a new version is released.
 
 * Windows 10
 * FontForge v20201107 (f8bbd68)
+
+## Naming
+
+* I use below options basically
+```bash
+./font-patcher -s -w -c --careful --progressbars {D2Coding}.ttf
+```
+* Mono means ```-s``` option
+* Win means ```-w``` option
